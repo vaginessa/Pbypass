@@ -15,4 +15,4 @@ For Bypass lock Screen On android | Tested On Android : 2..5
    5- ./Pbypass.sh
    
    
-   # Insta : Surreal.Man
+   # Insta : arrteann
